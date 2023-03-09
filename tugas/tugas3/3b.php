@@ -7,7 +7,7 @@ function urutanAngka($number) {
             echo  $start . " ";
             $start ++;
         }
-        echo "<hr>";
+        echo "<br>";
     }
 }
 
